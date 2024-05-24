@@ -1,4 +1,4 @@
-# jee-challenger v2
+# jeechallenger v2
 
 This repo is currently archived. Visit the main repository of JEE Challenger for all details: https://github.com/Samya-S/jeechallenger
 
