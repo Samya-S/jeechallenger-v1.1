@@ -1,4 +1,4 @@
-# jeechallenger v2
+# jeechallenger v1.2
 
 This project includes `PHP` and has a [raw html version (only html, css and js)](https://github.com/Samya-S/jeechallenger-v3).
 
